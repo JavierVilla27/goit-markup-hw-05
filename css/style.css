@@ -677,3 +677,8 @@ transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
     height: 30px;
     border: 1px solid #000000;
 }
+
+.svg {
+    color: #000000;
+    overflow: visible;
+}
